@@ -1,0 +1,6 @@
+img{width: 200px;}
+p:hover{color: blueviolet;}
+h3:hover{color: cornflowerblue;}
+p{display: flex; position: relative;}
+P:hover{position: static;}
+strong:hover{color: red;}
